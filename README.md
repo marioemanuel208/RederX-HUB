@@ -11962,6 +11962,6 @@ OrionLib:Init()
 OrionLib:MakeNotification({
     Name = "Sla Hub",
     Content = "Loading Config Complete!!",
-    Image = "https://drive.google.com/uc?id=1fLxly6P8X5niKahlgQHOyFcyzPwJ-Yrc",
+    Image = "1fLxly6P8X5niKahlgQHOyFcyzPwJ-Yrc",
 Time = 5
 })
